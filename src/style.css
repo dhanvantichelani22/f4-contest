@@ -1,5 +1,12 @@
+body{
+  background-color: black;
+}
+input{
+  width: 40%;
+}
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
